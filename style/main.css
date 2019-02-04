@@ -1,0 +1,21 @@
+.mt-5 {
+  margin-top: 5 ($spacer * 3);
+}
+.p-4 {
+  padding: 4 ($spacer * 1.5);
+}
+.p-2 {
+  padding: 2 ($spacer * .5);
+}
+
+body {
+  background: #ccb8d6;
+}
+form {
+  background: #ffffff;
+  border: 10px solid #C2D6B8;
+}
+
+a {
+  color:#2C7207;
+}
